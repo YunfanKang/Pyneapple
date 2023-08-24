@@ -13,9 +13,7 @@ build:
     # nodejs: "20"
     # rust: "1.70"
     # golang: "1.20"
-    jpype: "1.5.0"
-    numpy: "1.25"
-    geopandas: "0.13.2"
+    
     
 
 # Build documentation in the "docs/" directory with Sphinx
