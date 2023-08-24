@@ -37,4 +37,4 @@ sphinx:
 #    - requirements: docs/requirements.txt
 python:
   install:
-    - requirements: requirements.txt
+    - requirements: requirements_doc.txt
